@@ -8,7 +8,7 @@
 - できない。
 ## DBサーバーの名前とバージョン
 - MySQL ver 8.0.32
-### ![MySQL](lecture03.img/image03.png）
+### ![MySQL](lecture03.img/image03.png)
 ## DBサーバーを終了させた場合、引き続きアクセスできるか？
 - できない。
 ## Railsの構成管理ツールの名前
