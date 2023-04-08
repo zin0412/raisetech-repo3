@@ -1,14 +1,14 @@
 # 第3回課題
 ## アプリケーションの起動
-!［AP表示］(lecture03.img/image01.png)
+### !［AP表示］(lecture03.img/image01.png)
 ## APサーバーの名前とバージョン
 - Puma version:5.6.5
-### !［AP表示］(lecture03.img/image02.png)
+### !［puma］(lecture03.img/image02.png)
 ## APサーバーを終了させた場合、引き続きアクセスできるか？
 - できない。
 ## DBサーバーの名前とバージョン
 - MySQL ver 8.0.32
-### !［AP表示］(lecture03.img/image3.png)
+### !［MySQL］(lecture03.img/image3.png)
 ## DBサーバーを終了させた場合、引き続きアクセスできるか？
 - できない。
 ## Railsの構成管理ツールの名前
